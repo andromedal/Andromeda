@@ -1,2 +1,2 @@
 # Andromeda
-Andromeda is a decentralized platform which runs on Ethereum network 
+Andromeda is a decentralized NFT platform which runs on Ethereum network 
